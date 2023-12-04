@@ -24,10 +24,6 @@
 ---
 <div>
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayandayani&show_icons=true&locale=en&layout=compact" alt="mayandayani" /></p>
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=mayandayani&show_icons=true&locale=en" alt="mayandayani" /></p>
-
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mayandayani&" alt="mayandayani" /></p>
 </div>
 
 ---
