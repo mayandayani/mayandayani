@@ -56,11 +56,3 @@ How to reach me mayandayani@gmail.com
   <a href="https://www.mozilla.org/en-CA/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a> 
   <a href="https://open.spotify.com/"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> 
   <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a> 
-
-
-
----
-
-<div>
-  <img src="https://media.tenor.com/PshaXsSgKdEAAAAC/programming.gif" width="400" alt="Programming GIF">
-</div>
