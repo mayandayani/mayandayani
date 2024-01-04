@@ -58,11 +58,6 @@ How to reach me mayandayani@gmail.com
   <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a> 
 
 
-  
----
-<div>
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayandayani&show_icons=true&locale=en&layout=compact" alt="mayandayani" /></p>
-</div>
 
 ---
 
