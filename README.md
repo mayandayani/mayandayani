@@ -9,7 +9,7 @@ All of my projects are available at [https://mayandayani.github.io/](https://may
 
 How to reach me mayandayani@gmail.com
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+<a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
