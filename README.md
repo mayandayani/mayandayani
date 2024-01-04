@@ -19,7 +19,7 @@
 ---
 
 <h3 align="left">Tech Stack</h3>
-https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white></a>
 
 ---
 <div>
