@@ -1,7 +1,4 @@
-
-<h1 align="left">Hey, I'm Mayan Dayani</h1>
-<h3 align="left">A creative software engineer from Canada</h3>
-
+![Header](./github-header-image(8).png)
 
 ---
 
